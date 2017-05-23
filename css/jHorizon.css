@@ -1,0 +1,26 @@
+.jHorizon_wrapper {
+	position: relative;
+}
+.jHorizon_content {
+    position: relative;
+    top: 0;
+    left: 0;
+	display: inline-flex;
+	clear: both;
+}
+.jHorizon_item {
+	float: left;
+}
+.jHorizon_scrollbar {
+    position: absolute;
+    background-color: rgba(61, 61, 61, 0.4);
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    display: none;
+}
+.jHorizon_scrollbar.jHorizon_scrollbar_horizontal {
+    height: 10px;
+    bottom: 0;
+    left: 0;
+}
