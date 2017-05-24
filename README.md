@@ -4,9 +4,11 @@ jQuery plugin for horizontal scrolling by GamesAgeddon
 ## Installation
 
 Include the css as the last stylesheet
+
 	<link rel="stylesheet" type="text/css" href="./css/jHorizon.css" />
 
 Include script after the jQuery libraries
+
 	<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 	<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
 	<script src="./js/jHorizon.js"></script>
