@@ -1,15 +1,15 @@
 .jHorizon_wrapper {
+	overflow: hidden;
 	position: relative;
 }
 .jHorizon_content {
     position: relative;
     top: 0;
     left: 0;
-	display: inline-flex;
-	clear: both;
+	white-space: nowrap;
 }
 .jHorizon_item {
-	float: left;
+	display: inline-block;
 }
 .jHorizon_scrollbar {
     position: absolute;
