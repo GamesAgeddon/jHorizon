@@ -7,12 +7,22 @@ Include the css as the last stylesheet.
 
 	<link rel="stylesheet" type="text/css" href="./css/jHorizon.css" />
 
+Or include the minified veriosn.
+
+	<link rel="stylesheet" type="text/css" href="./min/jHorizon.min.css" />
+	
 Include script after the jQuery libraries.
 
 	<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 	<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
 	<script src="./js/jHorizon.js"></script>
+
+Or include the minified veriosn.
 	
+	<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+	<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+	<script src="./min/jHorizon.min.js"></script>
+
 ## Usage
 
 Create a wrapper element with the css class *jHorizon_wrapper*. This element needs a unique id. Add a content element with the css class *jHorizon_content* to the wrapper element.
