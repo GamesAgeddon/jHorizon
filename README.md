@@ -3,6 +3,8 @@ jQuery plugin for horizontal scrolling by GamesAgeddon
 
 ## Installation
 
+### CSS
+
 Include the css as the last stylesheet.
 
 	<link rel="stylesheet" type="text/css" href="/path/to/jHorizon.css" />
@@ -15,6 +17,8 @@ Or include the minified version with jsDelivr.
 
 	<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/gamesageddon/jHorizon@1.0/min/jHorizon.min.css" />
 	
+### JS
+
 Include script after the jQuery libraries.
 
 	<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
