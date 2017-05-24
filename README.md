@@ -7,11 +7,11 @@ Include the css as the last stylesheet.
 
 	<link rel="stylesheet" type="text/css" href="/path/to/jHorizon.css" />
 
-Or include the minified veriosn.
+Or include the minified version.
 
 	<link rel="stylesheet" type="text/css" href="/path/to/jHorizon.min.css" />
 	
-Or include the minified veriosn with jsDelivr.
+Or include the minified version with jsDelivr.
 
 	<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/gamesageddon/jHorizon@1.0/min/jHorizon.min.css" />
 	
@@ -21,13 +21,13 @@ Include script after the jQuery libraries.
 	<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
 	<script src="/path/to/jHorizon.js"></script>
 
-Or include the minified veriosn.
+Or include the minified version.
 	
 	<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 	<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
 	<script src="/path/to/jHorizon.min.js"></script>
 	
-Or include the minified veriosn with jsDelivr.
+Or include the minified version with jsDelivr.
 
 	<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 	<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
